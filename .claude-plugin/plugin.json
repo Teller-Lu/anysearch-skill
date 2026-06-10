@@ -1,0 +1,15 @@
+{
+  "name": "anysearch-skill",
+  "description": "人工智能代理统一实时搜索引擎技能。",
+  "version": "2.1.0",
+  "author": { 
+  "name": "anysearch-ai"
+  },
+  "homepage": "https://github.com/anysearch-ai/anysearch-skill",
+  "repository": "https://github.com/anysearch-ai/anysearch-skill",
+  "license": "Teller",
+  "keywords": [
+    "skills",
+    "search"
+  ]
+}

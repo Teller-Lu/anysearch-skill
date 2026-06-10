@@ -1,0 +1,19 @@
+{
+  "name": "anysearch-skill",
+  "description": "人工智能代理统一实时搜索引擎技能。",
+  "owner": {
+  "name": "Teller",
+  "email":"tellerlu@163.com"
+  },
+  "plugins": [
+    {
+      "name": "anysearch-skill",
+      "source": "./",
+      "description": "anysearch-ai anysearch-skill for Claude",
+      "version": "2.1.0",
+	  "author": {
+        "name": "anysearch-ai"
+      }
+    }
+  ]
+}
